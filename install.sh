@@ -4,7 +4,7 @@ NVM_URL="https://cdn.pisugar.com/PiSugar-wificonfig/script/nvm/v$NVM_VERSION.tar
 NPM_REGISTRY="https://registry.npmmirror.com"
 REPO_URL="https://gitee.com/jdaie/sugar-wifi-config.git"
 NODE_BINARY_INSTALL_URL="https://cdn.pisugar.com/PiSugar-wificonfig/script/node-binary/install-node-v18.19.1.sh"
-INSTALL_DIR="/home/bjorn/pisugar"
+INSTALL_DIR="/opt/sugar-wifi-config"
 
 # Function to check if a command exists
 command_exists() {
