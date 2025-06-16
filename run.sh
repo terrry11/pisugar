@@ -2,7 +2,7 @@
 NVM_URL="https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh"
 NODE_BINARY_INSTALL_URL="https://cdn.pisugar.com/PiSugar-wificonfig/script/node-binary/install-node-v18.19.1.sh"
 REPO_URL="https://github.com/PiSugar/sugar-wifi-conf.git"
-INSTALL_DIR="/home/bjorn/pisugar"
+INSTALL_DIR="/opt/sugar-wifi-config"
 
 # Function to check if a command exists
 command_exists() {
